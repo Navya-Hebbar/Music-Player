@@ -22,3 +22,6 @@ A simple web-based music player built using **HTML, CSS, and JavaScript**, featu
    ```bash
    git clone https://github.com/Navya-Hebbar/Music-Player.git
 2. Navigate to the project folder and open index.html in your browser. Enjoy the music!
+
+## Live Demo  
+🔗 **Check out the deployed version:** [Music Player](https://navya-hebbar.github.io/Music-Player/)  
